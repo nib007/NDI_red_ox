@@ -57,3 +57,46 @@ The goal: **Understand how structural modifications and oxidation states influen
 ---
 
 ## 📂 Repository Structure
+
+NDI_red_ox/
+├── data/                # CSV files of solubility predictions
+├── scripts/             # Python scripts for modeling and plotting
+├── images/              # Molecular structures and solubility plots
+├── docs/                # PDF reports and supporting material
+├── Solubility Analysis of Anthracene and Naphthalenediimide Derivatives.docx
+└── README.md            # Project overview
+```
+
+---
+
+## ▶️ Usage
+Clone the repository:
+```bash
+git clone https://github.com/nib007/NDI_red_ox.git
+cd NDI_red_ox
+```
+
+Run analysis scripts:
+```bash
+python scripts/solubility_plot.py
+```
+
+---
+
+## 🖼 Figures
+- **Figure 1:** Oxidized and reduced forms of NDI  
+- **Figure 2:** Solubility vs Temperature (250–370 K)  
+- **Figure 3:** SMILES codes and structures for key derivatives  
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Citation
+If you use this work, please cite:  
+**“Solubility Analysis of Anthracene and Naphthalenediimide Derivatives” (2026)**
+
+---
